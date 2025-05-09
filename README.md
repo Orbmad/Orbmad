@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # 💫 About Me:
 🔭I'm currently working on stock market predictions.<br>
-🌱I'm currently learning ML and Cryptography
+🌱I'm currently learning ML and Cryptography.<br>
 🤔I'm planning to create one or two games based on original ideas.<br>
 💬Ask me about anything.<br>
 📫How to reach me: dambrom01@gmail.com
